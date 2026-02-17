@@ -9,4 +9,4 @@ tags:
   - newton method
 ---
 
-<iframe src="/blog-assets/damped-newton/damped-newton.html" width="100%" height="4000px" style="border:none; margin-left:-150px; transform: scale(1.3); transform-origin: top left;" scrolling="no"></iframe>
+<iframe src="/blog-assets/damped-newton/damped-newton.html" width="100%" height="8000px" style="border:none; margin-left:-150px; transform: scale(1.3); transform-origin: top left;" scrolling="no"></iframe>
